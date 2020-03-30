@@ -11,7 +11,7 @@ sudo apt-get update
 apt-get install python-pip htop vim lnav zsh git \
   apt-transport-https ca-certificates curl gnupg-agent software-properties-common \
   terminator docker-ce docker-ce-cli containerd.io awscli autojump scala jq shutter \
-  npm
+  npm rubygems
 
 # Install with snap
 snap install slack --classic
