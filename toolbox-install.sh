@@ -31,3 +31,5 @@ sdk install java 8.0.242.j9-adpt
 # Setup
 echo "export PATH=$HOME/.local/bin:$PATH" >> ~/.zshrc
 echo "source /usr/share/autojump/autojump.sh" >> ~/.zshrc
+
+bash ./git-config.sh
