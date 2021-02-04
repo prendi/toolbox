@@ -8,4 +8,4 @@ git config --global alias.st stash
 git config --global alias.d diff
 git config --global alias.r reset
 git config --global alias.a add
-
+git config --global alias.rc "rebase --continue"
